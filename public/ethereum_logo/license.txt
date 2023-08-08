@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ethereum logo 3D
+* source:	https://sketchfab.com/3d-models/ethereum-logo-3d-3b8be89e01514b48bd7a4e52582f6d50
+* author:	Jihambru (https://sketchfab.com/jihambru)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ethereum logo 3D" (https://sketchfab.com/3d-models/ethereum-logo-3d-3b8be89e01514b48bd7a4e52582f6d50) by Jihambru (https://sketchfab.com/jihambru) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
