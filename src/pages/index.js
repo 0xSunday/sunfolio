@@ -6,6 +6,8 @@ import Hero from "../../components/Hero";
 import About from "../../components/About";
 import Projects from "../../components/Projects";
 import Contact from "../../components/Contact";
+import Skills from "../../components/Skills";
+import { StarsCanvas } from "../../components/canvas";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -25,12 +27,12 @@ export default function Home() {
         </div>
 
         <About />
-        {/* <Skills /> */}
+        <Skills />
         <Projects />
         {/* <Experience />   */}
 
         <div>
-          {/* <Contact /> */}
+          <Contact />
           {/* <StarsCanvas /> */}
           {/* <Links /> */}
         </div>

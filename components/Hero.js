@@ -1,4 +1,4 @@
- //use client
+//use client
 // import { styles } from "@/styles";
 import React from "react";
 import { motion } from "framer-motion";
@@ -18,7 +18,7 @@ const Hero = () => {
       <div className=" absolute top-24 z-10 right-0 left-0 sm:pl-16 pl-5  flex flex-row items-start gap-5">
         <div className="flex flex-col justify-center items-center">
           <div className="w-5 h-5 rounded-full bg-[#915eff]" />
-          <div className="w-1 sm:h-80 h-60 violet-gradient" />
+          <div className="w-1 h-52  sm:h-80 violet-gradient" />
         </div>
         <div className="flex flex-col gap-5 w-full  ">
           <h1
