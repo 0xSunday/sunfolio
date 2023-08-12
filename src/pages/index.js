@@ -32,7 +32,7 @@ export default function Home() {
         {/* <Experience />   */}
 
         <div>
-          <Contact />
+          {/* <Contact /> */}
           {/* <StarsCanvas /> */}
           {/* <Links /> */}
         </div>
