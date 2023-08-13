@@ -1,8 +1,7 @@
-//use client
 import React from "react";
 
 import { SectionWrapper } from "./hoc";
-// import { technologies } from "@/data";
+
 import { BallCanvas } from "./canvas";
 import { technologies } from "../data";
 const Skills = () => {
